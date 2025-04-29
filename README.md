@@ -1,9 +1,6 @@
 # GuessGame
  Number Guessing Game
 
-## Description
-
-This is a simple number guessing game implemented in JavaScript. The game prompts the user to guess a number within a specified range, and provides feedback on whether the guess is too high or too low.
 
 ## How to Play
 
